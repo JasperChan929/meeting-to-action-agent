@@ -1,0 +1,38 @@
+{
+  "items": [
+    {
+      "name": "完成PRD",
+      "description": "推进并完成PRD文档输出",
+      "owner": "张伟",
+      "recipient": null,
+      "task_type": "todo",
+      "priority": "medium",
+      "deadline": "2026-05-06T00:00:00+08:00",
+      "confidence": 0.98,
+      "source_text": "张伟你那个PRD搞得怎么样了？产品总监催了好几次，下周三之前能出来吗？"
+    },
+    {
+      "name": "组织团建",
+      "description": "安排周五下午的团建活动",
+      "owner": "小李",
+      "recipient": null,
+      "task_type": "meeting",
+      "priority": "low",
+      "deadline": "2026-05-01T00:00:00+08:00",
+      "confidence": 0.91,
+      "source_text": "要不周五下午搞个团建？小李你帮忙订个地方，最好不要太远。"
+    },
+    {
+      "name": "回复客户",
+      "description": "回应客户提出加微信的请求",
+      "owner": null,
+      "recipient": "客户",
+      "task_type": "email",
+      "priority": "low",
+      "deadline": null,
+      "confidence": 0.84,
+      "source_text": "刚才有个客户问能不能加微信，这个事谁回复一下，反正不急。"
+    }
+  ],
+  "meeting_date": null
+}

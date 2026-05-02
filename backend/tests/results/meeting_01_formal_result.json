@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "name": "出报告",
+      "description": "整理投诉分类分析报告",
+      "owner": "陈静",
+      "recipient": "王磊和COO张总",
+      "task_type": "todo",
+      "priority": "medium",
+      "deadline": "2026-05-04T23:59:59+08:00",
+      "confidence": 0.97,
+      "source_text": "陈静负责的客服团队下周一前要出一份投诉分类分析报告，发给我和COO张总。"
+    },
+    {
+      "name": "谈SLA",
+      "description": "与顺丰重新协商SLA并形成新的协议方案",
+      "owner": "李航",
+      "recipient": "张总",
+      "task_type": "todo",
+      "priority": "high",
+      "deadline": "2026-05-15T23:59:59+08:00",
+      "confidence": 0.98,
+      "source_text": "李航你跟顺丰那边重新谈一下SLA，5月15日之前给我新的协议方案。"
+    },
+    {
+      "name": "提交材料",
+      "description": "提交参会名单和宣传材料供审核",
+      "owner": "刘芳",
+      "recipient": "运营部",
+      "task_type": "todo",
+      "priority": "medium",
+      "deadline": "2026-05-03T23:59:59+08:00",
+      "confidence": 0.97,
+      "source_text": "市场部刘芳负责对接，5月3日前提交参会名单和宣传材料给运营部审核。"
+    },
+    {
+      "name": "确认纪要",
+      "description": "确认会议纪要无误",
+      "owner": null,
+      "recipient": "全体参会人员",
+      "task_type": "unknown",
+      "priority": "low",
+      "deadline": "2026-04-28T23:59:59+08:00",
+      "confidence": 0.92,
+      "source_text": "所有参会人员请在今天下班前确认会议纪要无误。"
+    }
+  ],
+  "meeting_date": "2026-04-28T00:00:00+08:00"
+}

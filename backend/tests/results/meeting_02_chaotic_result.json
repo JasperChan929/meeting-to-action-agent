@@ -1,0 +1,38 @@
+{
+  "items": [
+    {
+      "name": "跟进功能上线",
+      "description": "跟进功能上线进度",
+      "owner": "小王",
+      "recipient": null,
+      "task_type": "todo",
+      "priority": "low",
+      "deadline": "2026-05-03T23:59:59+08:00",
+      "confidence": 0.95,
+      "source_text": "刚才说的功能上线的事，谁来跟一下？小王你最近不忙吧，要不你看看？"
+    },
+    {
+      "name": "处理客户诉求",
+      "description": "处理之前客户提出的诉求",
+      "owner": null,
+      "recipient": null,
+      "task_type": "todo",
+      "priority": "high",
+      "deadline": null,
+      "confidence": 0.87,
+      "source_text": "那个客户之前说的诉求，是不是还没人理？赶紧搞一下，别拖了。"
+    },
+    {
+      "name": "导出运营数据",
+      "description": "导出运营所需数据并发到群里",
+      "owner": null,
+      "recipient": "群里",
+      "task_type": "email",
+      "priority": "low",
+      "deadline": "2026-05-03T23:59:59+08:00",
+      "confidence": 0.93,
+      "source_text": "还有运营那边问的数据，谁导出一下扔群里啊。"
+    }
+  ],
+  "meeting_date": null
+}

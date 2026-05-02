@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "name": "通知设计",
+      "description": "通知设计组参加评审会",
+      "owner": "赵敏",
+      "recipient": "设计组",
+      "task_type": "meeting",
+      "priority": "medium",
+      "deadline": "2026-05-06T10:00:00+08:00",
+      "confidence": 0.98,
+      "source_text": "通知设计组下周三上午10点开评审会"
+    },
+    {
+      "name": "整理录音",
+      "description": "整理上周用户访谈录音并发送给产品经理",
+      "owner": "赵敏",
+      "recipient": "产品经理",
+      "task_type": "email",
+      "priority": "low",
+      "deadline": null,
+      "confidence": 0.93,
+      "source_text": "顺便把上周用户访谈的录音整理一份发给产品经理"
+    },
+    {
+      "name": "确认预算",
+      "description": "确认618活动预算方案",
+      "owner": "赵敏",
+      "recipient": "运营",
+      "task_type": "todo",
+      "priority": "medium",
+      "deadline": "2026-05-08T00:00:00+08:00",
+      "confidence": 0.95,
+      "source_text": "让运营那边在周五前确认一下618活动的预算方案"
+    },
+    {
+      "name": "抄送VP",
+      "description": "将618活动预算方案抄送给VP",
+      "owner": "赵敏",
+      "recipient": "VP",
+      "task_type": "email",
+      "priority": "low",
+      "deadline": null,
+      "confidence": 0.78,
+      "source_text": "如果他们没空就直接抄送给VP那边"
+    },
+    {
+      "name": "提交报销",
+      "description": "提交Q1报销单据",
+      "owner": "所有人",
+      "recipient": "财务",
+      "task_type": "todo",
+      "priority": "high",
+      "deadline": "2026-05-08T18:00:00+08:00",
+      "confidence": 0.97,
+      "source_text": "财务那边催的Q1报销单据，所有人本周五下班前必须提交完，逾期不再受理"
+    }
+  ],
+  "meeting_date": "2026-05-06T10:00:00+08:00"
+}

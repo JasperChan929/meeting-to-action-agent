@@ -1,0 +1,41 @@
+# ============ Secrets（绝对不入 git）============
+.env
+.env.backup
+.env.local
+*.token
+.notion_token
+
+# ============ Python ============
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+wheels/
+.pytest_cache/
+
+# ============ Virtual envs（任意层级）============
+.venv/
+**/.venv/
+venv/
+
+# ============ uv ============
+# uv.lock 要进 git（锁定依赖版本，类似 package-lock.json）
+# 但 .python-version 可选——这里保留进 git，方便协作者
+
+# ============ IDE ============
+.vscode/
+.idea/
+*.swp
+
+# ============ OS ============
+.DS_Store
+Thumbs.db
+
+# ============ 日志 / 数据库 ============
+*.log
+*.sqlite
+*.sqlite3
+
+# ============ MCP / Claude Desktop ============
+*.mcp.log
