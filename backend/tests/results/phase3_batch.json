@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-05-03T00:08:52.472702",
+  "mode": "real",
+  "n_meetings": 5,
+  "total_extracted": 19,
+  "total_processed": 19,
+  "total_success": 19,
+  "total_failure": 0,
+  "success_rate": 1.0,
+  "no_owner_rate": 0.158,
+  "no_deadline_rate": 0.211,
+  "avg_confidence_overall": 0.916,
+  "per_meeting": [
+    {
+      "file": "meeting_01_formal.txt",
+      "n_extracted": 4,
+      "n_processed": 4,
+      "truncated": false,
+      "success": 4,
+      "failure": 0,
+      "failure_details": [],
+      "n_no_owner": 0,
+      "n_no_deadline": 0,
+      "avg_confidence": 0.95,
+      "task_type_distribution": {
+        "todo": 4,
+        "email": 0,
+        "meeting": 0,
+        "unknown": 0
+      }
+    },
+    {
+      "file": "meeting_02_chaotic.txt",
+      "n_extracted": 3,
+      "n_processed": 3,
+      "truncated": false,
+      "success": 3,
+      "failure": 0,
+      "failure_details": [],
+      "n_no_owner": 2,
+      "n_no_deadline": 1,
+      "avg_confidence": 0.917,
+      "task_type_distribution": {
+        "todo": 2,
+        "email": 1,
+        "meeting": 0,
+        "unknown": 0
+      }
+    },
+    {
+      "file": "meeting_03_technical.txt",
+      "n_extracted": 4,
+      "n_processed": 4,
+      "truncated": false,
+      "success": 4,
+      "failure": 0,
+      "failure_details": [],
+      "n_no_owner": 0,
+      "n_no_deadline": 0,
+      "avg_confidence": 0.93,
+      "task_type_distribution": {
+        "todo": 3,
+        "email": 0,
+        "meeting": 1,
+        "unknown": 0
+      }
+    },
+    {
+      "file": "meeting_04_casual.txt",
+      "n_extracted": 3,
+      "n_processed": 3,
+      "truncated": false,
+      "success": 3,
+      "failure": 0,
+      "failure_details": [],
+      "n_no_owner": 1,
+      "n_no_deadline": 1,
+      "avg_confidence": 0.91,
+      "task_type_distribution": {
+        "todo": 1,
+        "email": 1,
+        "meeting": 1,
+        "unknown": 0
+      }
+    },
+    {
+      "file": "meeting_05_nested.txt",
+      "n_extracted": 5,
+      "n_processed": 5,
+      "truncated": false,
+      "success": 5,
+      "failure": 0,
+      "failure_details": [],
+      "n_no_owner": 0,
+      "n_no_deadline": 2,
+      "avg_confidence": 0.882,
+      "task_type_distribution": {
+        "todo": 2,
+        "email": 2,
+        "meeting": 1,
+        "unknown": 0
+      }
+    }
+  ]
+}
