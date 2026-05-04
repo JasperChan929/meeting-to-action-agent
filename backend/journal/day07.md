@@ -53,3 +53,5 @@
 - secret 永远不入聊天/不入 git——day07 早上贴 .env 给教练时输出里带了 key，虽然是假的，但同一个动作在真实场景就是事故。下次贴前先 grep -iE 'key|token|secret'
 - 写代码时变量命名警觉：result 这种太通用的名字在嵌套作用域容易覆盖（run_meeting.py 那个 bug 就是这么来的）
 - LLM 不稳定性必须接受，不必硬刚——工程层兜底（confidence + HITL + 多次平均）
+
+

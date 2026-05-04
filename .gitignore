@@ -4,7 +4,8 @@
 .env.local
 *.token
 .notion_token
-
+credentials.json
+token.json
 # ============ Python ============
 __pycache__/
 *.py[cod]
